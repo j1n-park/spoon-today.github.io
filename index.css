@@ -4,7 +4,7 @@ html {
     background-image: url("./background.jpg");
     background-size: cover;
     overflow-y: hidden;
-    height: 100vh;
+    height: auto;
 }
 
 .profile {
