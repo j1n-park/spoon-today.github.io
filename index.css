@@ -2,7 +2,7 @@
 
 html {
     background-image: url("./background.jpg");
-    background-size: cover;
+    background-size: auto;
     overflow-y: hidden;
     height: auto;
 }
